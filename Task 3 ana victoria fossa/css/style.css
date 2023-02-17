@@ -1,0 +1,33 @@
+ul {
+    list-style: none;
+}
+table {
+    width: 1000px;
+}
+table.hor {
+    border-spacing : 100px;
+  }
+  table.horver {
+    border-spacing : 5px 15px;
+  }
+  p{
+    font-family: sans-serif;
+  }
+  p{
+    font-weight: 500;
+  }
+  p{
+    font-size: large;
+  }
+table{
+    font-family: sans-serif;
+}
+ul{
+    font-family: sans-serif;
+}
+table{
+    text-align: center;
+}
+.foto1 {
+  padding: 10px;margin: 10px;border:2px salmon; float: right;
+}
